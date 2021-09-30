@@ -24,3 +24,4 @@ Simple list showing what needs to be or has been completed. Includes name, descr
 |`Player Groups`|Each player has an identifying group.|[Cosmic](https://github.com/Cosmic5173)|-|`0%`|
 |`Player Level and XP`|Each player has a Network Level and XP.|[Cosmic](https://github.com/Cosmic5173)|-|`0%`|
 |`Player Clan`|Players can create a group of people to play with.|[Cosmic](https://github.com/Cosmic5173)|-|`0%`|
+|`Player Settings`|Various settings for players to edit.|[Cosmic](https://github.com/Cosmic5173)|Cosmic|9/20/21|`33%`|
